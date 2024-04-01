@@ -5,7 +5,7 @@
   <img alt="Abdulwasiu Image" src="https://scontent.fman7-1.fna.fbcdn.net/v/t39.30808-6/434736837_7738156989541902_6240933541467023142_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DiMHa_JvEhQAX9uP1Qv&_nc_ht=scontent.fman7-1.fna&oh=00_AfBFgRz8Bfj--zZ3T217N2UOM5o9fs0L93fLSwFNmdMGQA&oe=6610419E">
 </picture>
 
-**Web Developer/Data Scientist/Researcher/Electrical Engineer/Teacher**
+**Full Stack Web-Developer/Data Analyst|Scientist/Researcher/Electrical Engineer/Teacher**
 
 ## ABOUT ME
 

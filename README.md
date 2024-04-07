@@ -12,7 +12,7 @@
 ### PROFESSIONAL SUMMARY
 
 I am a self-motivated persion with a strong background in Computer Science, Programming, Engineering and Education. 
-Experienced in deciphering intricate algorithms, modifying data, developing creative hypotheses for perceptive analysis, creating and maintaining a dynamic website. 
+Experienced in deciphering intricate algorithms, modifying data, developing creative hypotheses for perceptive analysis, and also creating and maintaining a dynamic website. 
 I am passionate about embracing new technologies and applying machine learning and artificial intelligence techniques to derive meaningful insights.
 
 

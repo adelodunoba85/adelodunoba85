@@ -62,7 +62,7 @@ Education, Training and Research
 * Applied Explainable Artificial Intelligence (XAI) methodologies to ensure transparency and accountability in machine learning models, contributing to ethical and responsible data-driven decision-making.
 * Developed a cutting-edge deep learning model for image classification, achieving an exceptional accuracy rate of 98% and significantly reducing manual image labeling efforts by a staggering 80%.
 
-**Applied Science Lecturer** |
+**Lecturer** |
 ECWA College Of Nursing Sciences,
 Egbe, Nigeria
 (11/2013 - 10/2023)

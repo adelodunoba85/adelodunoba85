@@ -73,7 +73,7 @@ Education and Training
 * Administered Learning Management System (LMS) tasks, including scheduling sessions, registering participants, and creating/editing instructor resources.
 * Designed and delivered engaging and impactful lessons tailored to students with diverse backgrounds and varied learning needs, fostering an inclusive and supportive learning environment.
 * Collaborated with cross-functional teams to maintain a consistent program experience for learners worldwide, aligning with defined curriculum, milestones, and interactions.
-* Developed and documented workflows and processes to streamline program delivery and enhance efficiency.Develop and document workflows and processes to streamline program delivery and enhance efficiency.
+* Developed and documented workflows and processes to streamline program delivery and enhance efficiency.
 * Provided valuable content and class feedback to the learning strategy team, contributing to ongoing improvements.
 
 **Data Science Virtual Experience Programme** |
@@ -101,7 +101,7 @@ Training, Coding and Analysis
 * Developed a predictive model utilizing machine learning algorithms to forecast customer churn, resulting in an impressive 80% reduction in churn rate and increased customer retention.
 
 ### EDUCATION
-* **Master Degree in Computer Science** | Ecole De Techniciens Superieurs Du Benin.      2000 - 2022
+* **Master Degree in Computer Science** | Ecole De Techniciens Superieurs Du Benin.      2020 - 2022
 * **Professional Diploma in Education** | College of Education Ilorin.                   2014 - 2016
 * **Bachelor Degree in Engineering**    | University of Ilorin.                          2006 - 2011
 
